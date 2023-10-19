@@ -46,7 +46,7 @@ h5 {
 a {
   letter-spacing: 2px;
   text-decoration: none;
-  color: #71c55d;
+  color: #614bc3;
 }
 
 a:hover {
@@ -116,7 +116,7 @@ span {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #71c55d;
+  background: #614bc3;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -164,7 +164,7 @@ span {
 }
 
 #header #logo h1 a span {
-  color: #71c55d;
+  color: #614bc3;
 }
 
 #header #logo img {
@@ -225,7 +225,7 @@ span {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #71c55d;
+  color: #614bc3;
 }
 
 .navbar .dropdown ul {
@@ -260,7 +260,7 @@ span {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #71c55d;
+  color: #614bc3;
 }
 
 .navbar .dropdown:hover>ul {
@@ -360,7 +360,7 @@ span {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #71c55d;
+  color: #614bc3;
 }
 
 .navbar-mobile .getstarted,
@@ -395,7 +395,7 @@ span {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #71c55d;
+  color: #614bc3;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -451,7 +451,7 @@ span {
   font-weight: 700;
   line-height: 56px;
   font-family: "Philosopher", sans-serif;
-  color: #71c55d;
+  color: #614bc3;
 }
 
 @media (max-width: 768px) {
@@ -493,14 +493,14 @@ span {
   border-radius: 50px;
   transition: 0.5s;
   margin-bottom: 30px;
-  border: 2px solid #71c55d;
+  border: 2px solid #614bc3;
   background: #fff;
-  color: #71c55d;
+  color: #614bc3;
   text-decoration: none;
 }
 
 #hero .btn-get-started:hover {
-  background: #71c55d;
+  background: #614bc3;
   color: #fff;
 }
 
@@ -521,7 +521,7 @@ span {
 }
 
 #hero .btns a:hover {
-  color: #71c55d;
+  color: #614bc3;
 }
 
 /*--------------------------------------------------------------
@@ -690,7 +690,7 @@ section {
 }
 
 #get-started .feature-block a:hover {
-  color: #71c55d;
+  color: #614bc3;
 }
 
 /* About Us Section
@@ -773,11 +773,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #71c55d;
+  border: 1px solid #614bc3;
 }
 
 #screenshots .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #71c55d;
+  background-color: #614bc3;
 }
 
 /* Video Section
@@ -798,7 +798,7 @@ section {
 #video .overlay .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#71c55d 50%, rgba(113, 197, 93, 0.15) 52%);
+  background: radial-gradient(#614bc3 50%, rgba(113, 197, 93, 0.15) 52%);
   border-radius: 50%;
   display: block;
   margin: 153px auto 0;
@@ -840,7 +840,7 @@ section {
 }
 
 #video .overlay .play-btn:hover::after {
-  border-left: 15px solid #71c55d;
+  border-left: 15px solid #614bc3;
   transform: scale(20);
 }
 
@@ -925,7 +925,7 @@ section {
 }
 
 #team .team-block .team-content ul li a .fa:hover {
-  color: #71c55d;
+  color: #614bc3;
 }
 
 #team .team-block .team-content ul>span {
@@ -950,7 +950,7 @@ section {
 }
 
 #testimonials .testimonials-content::before {
-  color: #71c55d;
+  color: #614bc3;
   content: "\f10e";
   display: inline-block;
   font: 70px/1 FontAwesome;
@@ -994,7 +994,7 @@ section {
 }
 
 #testimonials .btm-btm .active {
-  background: #71c55d;
+  background: #614bc3;
 }
 
 .carousel-indicators {
@@ -1068,7 +1068,7 @@ section {
 }
 
 #pricing .block-pricing .pricing-table .table_btn a {
-  background: #71c55d;
+  background: #614bc3;
   color: #fff;
   margin: 0;
   display: inline-block;
@@ -1119,7 +1119,7 @@ section {
 }
 
 #blog .block-blog .content-blog h4 a:hover {
-  color: #71c55d;
+  color: #614bc3;
 }
 
 #blog .block-blog .content-blog>span {
@@ -1138,7 +1138,7 @@ section {
 }
 
 #blog .block-blog .content-blog a.readmore:hover {
-  color: #71c55d;
+  color: #614bc3;
 }
 
 /* Newsletter Section
@@ -1175,13 +1175,13 @@ section {
 }
 
 #newsletter .form-control:focus {
-  border-color: #71c55d;
+  border-color: #614bc3;
   box-shadow: none;
   outline: 0 none;
 }
 
 #newsletter .btn {
-  background: #71c55d;
+  background: #614bc3;
   border: 0;
   border-radius: 0;
   height: 50px;
@@ -1210,7 +1210,7 @@ section {
 }
 
 #newsletter ul li {
-  background: #71c55d;
+  background: #614bc3;
   border-radius: 50px;
   float: left;
   height: 35px;
@@ -1251,7 +1251,7 @@ section {
 
 #contact .info i {
   font-size: 32px;
-  color: #71c55d;
+  color: #614bc3;
   float: left;
   line-height: 0;
 }
@@ -1274,7 +1274,7 @@ section {
 #contact .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #71c55d;
+  background: #614bc3;
   color: #fff;
   line-height: 1;
   padding: 6px 0 8px 0;
@@ -1348,7 +1348,7 @@ section {
 
 #contact .php-email-form input:focus,
 #contact .php-email-form textarea:focus {
-  border-color: #71c55d;
+  border-color: #614bc3;
 }
 
 #contact .php-email-form input {
@@ -1360,7 +1360,7 @@ section {
 }
 
 #contact .php-email-form button[type=submit] {
-  background: #71c55d;
+  background: #614bc3;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1441,5 +1441,5 @@ section {
 .footer .copyrights p a,
 .footer .copyrights .credits a {
   letter-spacing: 0;
-  color: #71c55d;
+  color: #614bc3;
 }
